@@ -1,4 +1,4 @@
-# Data Engineering Project
+# Delay flights at O'Hare airport - Data Engineering Project
 Flight departure delays in Chicago O'Hare airport 
 The main purpose of this project was to analyse the causes of flight delays in O'Hare. For that, we used data from 6 largest airports in the US, which helped us to come up with several feasible options delays in Chicago.
 
